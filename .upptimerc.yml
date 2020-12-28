@@ -1,8 +1,6 @@
-# Change these first
-owner: swarmlet # Your GitHub username
-repo: swarmlet # Your Github repository name
+owner: swarmlet
+repo: swarmlet-statuspage
 
-# Add your sites here
 sites:
   - name: Swarmlet website
     url: https://swarmlet.dev
