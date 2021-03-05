@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
-    "timeDay": 577,
+    "timeDay": 567,
     "timeWeek": 564,
     "timeMonth": 586,
     "timeYear": 591,
@@ -22,19 +22,19 @@
     "url": "https://get.swarmlet.dev",
     "icon": "https://favicons.githubusercontent.com/get.swarmlet.dev",
     "slug": "swarmlet-install-script",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 5643,
-    "timeWeek": 1866,
-    "timeMonth": 950,
-    "timeYear": 750,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 776,
+    "timeDay": 6616,
+    "timeWeek": 1948,
+    "timeMonth": 1021,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2021-03-05": 0
+      "2021-03-05": 5
     }
   }
 ]
