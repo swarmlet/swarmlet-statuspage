@@ -6,15 +6,15 @@
     "slug": "swarmlet-website",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "33.88%",
+    "uptimeDay": "79.76%",
     "uptimeWeek": "90.55%",
     "uptimeMonth": "97.83%",
-    "uptimeYear": "95.95%",
+    "uptimeYear": "96.08%",
     "time": 599,
-    "timeDay": 485,
-    "timeWeek": 700,
-    "timeMonth": 669,
-    "timeYear": 610,
+    "timeDay": 487,
+    "timeWeek": 703,
+    "timeMonth": 655,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2022-10-14": 412,
       "2022-10-13": 540,
@@ -32,8 +32,7 @@
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
-      "2021-10-16": 1440,
-      "2021-10-15": 1440
+      "2021-10-16": 1440
     }
   },
   {
@@ -42,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/get.swarmlet.dev.ico",
     "slug": "swarmlet-install-script",
     "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "33.88%",
+    "uptime": "97.74%",
+    "uptimeDay": "79.77%",
     "uptimeWeek": "90.26%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "95.95%",
+    "uptimeYear": "96.08%",
     "time": 601,
-    "timeDay": 486,
-    "timeWeek": 746,
-    "timeMonth": 693,
-    "timeYear": 613,
+    "timeDay": 506,
+    "timeWeek": 756,
+    "timeMonth": 680,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2022-10-14": 412,
       "2022-10-13": 540,
@@ -70,8 +69,7 @@
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
-      "2021-10-16": 1440,
-      "2021-10-15": 1440
+      "2021-10-16": 1440
     }
   }
 ]
